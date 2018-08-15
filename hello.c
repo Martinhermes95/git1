@@ -1,6 +1,9 @@
 #include<stdio.h>
 
 int main(){
-printf("hello, my baby!");
+int ret;
+res = soma(5,4);
+printf("o resultado é: %d", ret);
+
 return 0;
 }
